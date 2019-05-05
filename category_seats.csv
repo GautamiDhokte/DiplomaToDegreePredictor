@@ -1,0 +1,50 @@
+category,gender,seatType
+OPEN,male,GOPEN
+OPEN,female,GOPEN
+OPEN,female,LOPEN
+OBC,male,GOPEN
+OBC,male,GOBC
+OBC,female,GOPEN
+OBC,female,LOPEN
+OBC,female,GOBC
+OBC,female,LOBC
+SC,male,GOPEN
+SC,male,GSC
+SC,female,GOPEN
+SC,female,LOPEN
+SC,female,GSC
+SC,female,LSC
+ST,male,GOPEN
+ST,male,GST
+ST,female,GOPEN
+ST,female,LOPEN
+ST,female,GST
+ST,female,LST
+VJDT,male,GOPEN
+VJDT,male,GVJDT
+VJDT,female,GOPEN
+VJDT,female,LOPEN
+VJDT,female,GVJDT
+VJDT,female,LVJDT
+NTB,male,GOPEN
+NTB,male,GNTB
+NTB,female,GOPEN
+NTB,female,LOPEN
+NTB,female,GNTB
+NTB,female,LNTB
+NTC,male,GOPEN
+NTC,male,GNTC
+NTC,female,GOPEN
+NTC,female,LOPEN
+NTC,female,GNTC
+NTC,female,LNTC
+NTD,male,GOPEN
+NTD,male,GNTD
+NTD,female,GOPEN
+NTD,female,LOPEN
+NTD,female,GNTD
+NTD,female,LNTD
+Physical handicap (You are are eligible for other general category seats also to which you belong),male,P
+Physical handicap (You are are eligible for other general category seats also to which you belong),female,P
+Defence(You are are eligible for other category seats also to which you belong),male,D
+Defence(You are are eligible for other category seats also to which you belong),female,D
